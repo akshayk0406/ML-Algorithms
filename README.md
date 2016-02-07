@@ -1,2 +1,2 @@
 # ML-Algorithms
-Machine Learning algorithms implemented in C++
+Machine Learning algorithms
